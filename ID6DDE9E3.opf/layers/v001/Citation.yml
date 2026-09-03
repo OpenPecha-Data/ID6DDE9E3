@@ -1,0 +1,23 @@
+id: 7cbcd14f8c8044508045f267429be77f
+annotation_type: Citation
+revision: '00001'
+annotations:
+  5150e400498345d2861f63c52ef01fd4:
+    span:
+      start: 1918
+      end: 2003
+    isverse: true
+  1dfb69ba62174ad28d515f9a2acee919:
+    span:
+      start: 2850
+      end: 2935
+    isverse: true
+  98ad1e16efd94bb3ac168a4bb4213e17:
+    span:
+      start: 22624
+      end: 22757
+    isverse: true
+local_ids:
+  5150e400498345d2861f63c52ef01fd4: 200000
+  1dfb69ba62174ad28d515f9a2acee919: 200001
+  98ad1e16efd94bb3ac168a4bb4213e17: 200002

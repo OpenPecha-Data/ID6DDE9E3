@@ -1,0 +1,25 @@
+id: ID6DDE9E3
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-LC-009
+  title: ᨌᨎ །སྔ་འགྱུར་སྡོམ་རྒྱུན་གྱི་མཁན་བརྒྱུད་ཀྱི་རྣམ་ཐར་ཉུང་གསལ་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། སྨིན་གླིང་ལོ་ཆེན་དྷརྨ་ཤྲཱི།
+  authors: &id001
+  - མཛད་པ་པོ། སྨིན་གླིང་ལོ་ཆེན་དྷརྨ་ཤྲཱི།
+  sku: MIN-LC-009
+  cover: MIN-LC-009.jpg
+  volume: {}
+ebook_metadata:
+  title: ᨌᨎ །སྔ་འགྱུར་སྡོམ་རྒྱུན་གྱི་མཁན་བརྒྱུད་ཀྱི་རྣམ་ཐར་ཉུང་གསལ་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: MIN-LC-009
+  cover: MIN-LC-009.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Yigchung
